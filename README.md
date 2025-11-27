@@ -23,7 +23,10 @@ HTML, CSS, Kotlin, Swift, JavaScript, Android Studio, Xcode, Obsidian, Figma, Fl
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,java,spring,mysql,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=java,ts,nextjs,spring,react,flutter,kotlin,swift,js,androidstudio,xcode,mysql,linux,github,vscode,docker,aws,figma,notion,obsidian" /> <br /><br />
+
+※Another skill and tools
+HTML, CSS, Kotlin, Swift, JavaScript, Android Studio, Xcode, Obsidian, Figma, Flutter, Linux, Notion, React, Firebase, Docker and so on.
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
