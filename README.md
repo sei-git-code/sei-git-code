@@ -1,6 +1,6 @@
-# Backend Engineer in Japan 👋
+# Full-Stack Engineer in Japan 👋
 
-### Just 20 years old / sei-git-code
+### sei-git-code — a lifelong learner who devours books, experiments daily, and is relentlessly focused on growing into a stronger engineer with each project
 
 ### Feel free to contact me anytime!👍
 
@@ -11,8 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sei-git-code&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sei-git-code&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-# NOW TRAINING
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
