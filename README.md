@@ -16,12 +16,12 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=java,ts,nextjs,spring,mysql,github,vscode,docker,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=java,ts,nextjs,spring,react,flutter,kotlin,swift,js,androidstudio,xcode,mysql,linux,github,vscode,docker,aws,figma,notion,obsidian" /> <br /><br />
 
 **Focus Stack**: Java / TypeScript / Next.js / Spring Boot
 
 ※Another skill and tools
-HTML, CSS, MySQL, Firebase, Docker and so on.
+HTML, CSS, Kotlin, Swift, JavaScript, Android Studio, Xcode, Obsidian, Figma, Flutter, Linux, Notion, React, Firebase, Docker and so on.
 
 # NOW TRAINING
 
